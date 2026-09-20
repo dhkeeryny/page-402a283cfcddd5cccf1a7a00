@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "13de3aa36a70ac0a04c2001a",
+  "owner": "dhkeeryny",
+  "repo": "page-402a283cfcddd5cccf1a7a00",
+  "title": "按摩院(Amy)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "402a283cfcddd5cccf1a7a00",
+      "a": "按摩院(Amy)",
+      "b": "2027最新官网",
+      "entity": "按摩院(Amy)",
+      "brand": "按摩院(Amy)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "10b2f4a43e2d734c7574555202cbb63402adaadae0c0acea145456fe11a6dd1f",
+      "content": {
+        "primary_entity": "按摩院(Amy)",
+        "keyword1": "按摩院(Amy)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，Windows、macOS、Android、iOS 各有对应订阅导入方式。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选定合适套餐后按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始顺畅连接",
+          "AI_DESCRIPTION": "，从基础版到团队版提供不同流量与设备数量，按需选择月付或年付方案，在常见客户端中导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从设备数量、月流量与订阅周期三个角度整理选型要点。",
+          "AI_FEATURES_TITLE": "选型要点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人轻量使用，旗舰版覆盖多设备日常，团队版面向多人共享。",
+          "AI_FEATURE_TEXT_2": "各套餐分别支持 3 台、5 台与 20 台设备同时在线，按实际终端数量选择。",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付价格更优，基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_FEATURE_TITLE_1": "按人数选套餐",
+          "AI_FEATURE_TITLE_2": "看设备数量",
+          "AI_FEATURE_TITLE_3": "定订阅周期",
+          "AI_GUIDE_INTRO": "从确认需求到导入订阅，三步完成初始配置。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "按摩院(Amy) 为不同设备数量与流量需求提供基础版、旗舰版与团队版三档订阅，按月或按年计费，适合个人、多设备用户与小型团队选择。",
+          "AI_HERO_SUBTITLE": "多档订阅适配各类设备",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "月付年付灵活计费",
+          "AI_HIGHLIGHT_3": "适配常见客户端",
+          "AI_PLANS_INTRO": "基础版 ¥15/月含 100GB 流量与 3 台设备；旗舰版 ¥35/月含 300GB 流量与 5 台设备；团队版 ¥85/月含 1000GB 流量与 20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确认日常在线的设备数量与每月大致流量，在基础版、旗舰版与团队版之间初步筛选。",
+          "AI_STEP_TEXT_2": "查看所选套餐对设备数量和客户端的适配要求，确认当前使用环境满足条件。",
+          "AI_STEP_TEXT_3": "依照对应客户端的使用文档导入订阅，完成配置后开始连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "按需选择合适套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、支持3台设备，适合轻量浏览；旗舰版每月300GB、支持5台设备，并含IPLC专线优化，适合流媒体与游戏场景。",
+          "AI_FAQ_QUESTION_2": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付150元，旗舰版350元，团队版850元，均相当于支付十个月费用，比按月支付节省两个月。",
+          "AI_FAQ_QUESTION_3": "如何导入订阅？",
+          "AI_FAQ_ANSWER_3": "在对应客户端中找到订阅或配置导入入口，粘贴订阅地址后更新节点列表，即可在客户端内选择线路连接。",
+          "AI_FAQ_QUESTION_4": "可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_4": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。超出限制时，可关闭不用的设备或升级套餐。",
+          "AI_FAQ_QUESTION_5": "团队版支持哪些额外功能？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月1000GB流量、20台设备在线、VIP高带宽节点、企业定制路由以及专属客户经理服务。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lvtuff.com",
+    "host": "lvtuff.com"
+  },
+  "file_hashes": {
+    "index.html": "7181ff309d6df8a3e817b285d3310223362629dadb67b2fb2d86773758f5ab11",
+    "sitemap.xml": "a05805597740d0a1a4bca1c149f788534355c045698ff753937e41c51914201b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8821946b8714102a4bd8e0735b51c8e30215f070706d7d29acbc898b8ba2196f",
+    "robots.txt": "bebb5ee9d73c1a530c89d72713901cbf50d094be171fd9797375dedb43bdf947",
+    "fc62dfe443e302535d3e251bc96809bf.txt": "fdf2509fa4c1d21d27dd7f649d553e78694cc35d0dfbbf76ea8547ff14e7d16e"
+  },
+  "revision": "118a98fc60b40700004286b39a708edd96818bd47d65fdad9ac2e73470402977"
+}
